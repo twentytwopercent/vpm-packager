@@ -1,4 +1,4 @@
 @echo off
 set main=%1
 
-echo %main%
+ping -l 6550 %main% -t
