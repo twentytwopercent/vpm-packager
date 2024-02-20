@@ -1,4 +1,5 @@
 Packages that can be installed:
 
-- Free Admin: This can be used to get administrator permissions on school computers. 'vpm install admin'
-- DOS Attacker: This DOS Attacks an IP Address. 'vpm install pinger'
+- Free Admin: This can be used to get administrator permissions on school computers. 'vpm install admin.bat'
+- DOS Attacker: This DOS Attacks an IP Address. 'vpm install pinger.bat'
+- Weather Checker: This shows you the current weather. 'vpm install weather.bat' 
